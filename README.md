@@ -1,2 +1,2 @@
 # Kanban
-Repository für Kanban mit HuBoard
+Repository für *Kanban* mit _HuBoard_.
